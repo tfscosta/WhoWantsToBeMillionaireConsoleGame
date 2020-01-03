@@ -1,4 +1,6 @@
 ﻿using System;
+using WhoWantsBeMilionare.Presentation.Interfaces;
+
 namespace WhoWantsBeMilionare.Presentation.Implementation
 {
     public class MenuPresenter : IMenuPresenter

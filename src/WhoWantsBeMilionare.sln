@@ -1,0 +1,30 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhoWantsBeMilionare", "WhoWantsBeMilionare\WhoWantsBeMilionare.csproj", "{4F2B6C4D-45AD-4FBC-8FEA-18FF23AECB8B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1 Presentation", "1.1 Presentation", "{35803C89-0193-4BC2-A206-CE5F6C00F5FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.3 Domain ", "1.3 Domain ", "{C77245A7-6A62-45E5-9B3B-D76D8D82BBCD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.4 Data", "1.4 Data", "{5405E646-ABAF-4799-BB66-9582EDF77B17}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.5 Crosscutting", "1.5 Crosscutting", "{F3F24DFD-CD9E-4035-8287-5852A09C3074}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.2 Service", "1.2 Service", "{A78798A9-56B7-44E5-8A9A-C41EF503A3D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F2B6C4D-45AD-4FBC-8FEA-18FF23AECB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F2B6C4D-45AD-4FBC-8FEA-18FF23AECB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F2B6C4D-45AD-4FBC-8FEA-18FF23AECB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F2B6C4D-45AD-4FBC-8FEA-18FF23AECB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4F2B6C4D-45AD-4FBC-8FEA-18FF23AECB8B} = {35803C89-0193-4BC2-A206-CE5F6C00F5FB}
+	EndGlobalSection
+EndGlobal
